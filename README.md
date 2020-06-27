@@ -1,2 +1,2 @@
 # cyclodogleg
-cyclodial gear based robot dog legs
+Cyclodial gearbox based QDD robot dog legs
